@@ -34,7 +34,7 @@ const Projects = () => {
       },
       {
         title: 'Star Wars Quick Guide',
-        detail: "This mobile application provides information about movies, characters, planets, species, starships and vehicles in Star Wars expanded universe, also known as the legend universe. It is built with Xamarin Forms and also compatible with android and iOS.",
+        detail: "This mobile application provides information about movies, characters, planets, species, starships and vehicles in Star Wars expanded universe, also known as the legend universe. It can work offline as well. It's built with Xamarin Forms and also compatible with android and iOS.",
         link: 'https://github.com/ahmsay/Star-Wars-Quick-Guide'
       },
     
