@@ -13,7 +13,7 @@ const About = () => {
   }
   const aboutContent = {
     mainTitle: 'Who am I ?',
-    mainContent: 'My name is Ahmet. I was born in Eskişehir. I graduated from Anadolu University, department of computer engineering and living in Ankara, Turkey. I am working at TÜBİTAK (Scientific and Technological Research Council of Turkey) as a software developer. I am interested in devops and microservices architecture.',
+    mainContent: 'My name is Ahmet. I was born in Eskişehir, Turkiye. I graduated from Anadolu University, department of computer engineering and living in Ankara, Turkiye. I am working at TÜBİTAK (Scientific and Technological Research Council of Turkiye) as a software developer. I am interested in devops and microservices architecture.',
     whatElse: {
       title: 'What Else ?',
       content: "Well, I like go kart, watching movies, Formula 1, tv series and documentaries, listening eurobeat, spending time on 9GAG, playing video games, table football, billiard, drawing, drinking tea, cold weather and cities with beautiful, historical architecture. What I don't like is jazz, summer, coffee (not kidding) and applications with too many ads. I am really interested in space related topics and wild nature. Tiger is my favorite animal. Besides work, I also code some stuff to learn and improve myself."
