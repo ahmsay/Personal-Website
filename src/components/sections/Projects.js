@@ -24,7 +24,7 @@ const Projects = () => {
     projectList: [
       {
         title: 'Solidvessel',
-        detail: "This is an online shopping application project built with Spring Boot and microservices architecture. It has five microservices, a message queue and caching mechanism. The application can be run with Docker and Kubernetes, and can be deployed on cloud with a single click.",
+        detail: "This is a shopping application project built with Spring Boot and microservices architecture. It has five microservices, a message queue and caching mechanism. The application can be run with Docker and Kubernetes, and can be deployed on cloud with a single click.",
         link: 'https://github.com/ahmsay/Solidvessel'
       },
       {
